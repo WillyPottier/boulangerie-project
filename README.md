@@ -24,7 +24,7 @@ Site web moderne pour boulangerie artisanale, développé avec Next.js 15, TypeS
 
 ### Prérequis
 
-- Node.js 22+ (tu as déjà v22.18.0 ✅)
+- Node.js 22+ ✅
 - npm ou yarn
 - Git
 
@@ -280,9 +280,10 @@ Vérifie que `globals.css` contient :
 ## 👨‍💻 Auteur
 
 Développé avec ❤️ et beaucoup de café ☕
+Par Willy Pottier
 
 ## 📄 Licence
 
-MIT - Libre d'utilisation pour tes projets personnels et commerciaux
+MIT - Libre d'utilisation pour tes projets personnels
 
 ---
