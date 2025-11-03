@@ -72,6 +72,10 @@ const config: Config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      boulangerie: {
+        50: "#211C17",
+        100: "#EBE9E8",
+        200: "#FFA03C",
     },
   },
   plugins: [animate],
